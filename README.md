@@ -1,1 +1,1 @@
-# math-operations-and-greeting
+# basic mathematical operation and creating a personalized greeting
